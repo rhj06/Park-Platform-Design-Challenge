@@ -1,6 +1,6 @@
 # Park-Platform-Design-Challenge
 
-## Contributors
+# Contributors
 Ryan Johnson, Isaac Ham, Tianyi Huang, Shiraz Arif, Arthur Fornia, Suhayr Hassan
 
 The purpose of this project was to design an interface for a neighborhood park information-sharing platform. We were tasked with sketching mock-up prototypes for both a mobile and a desktop web interfaces for the Park application. Once we had our draw-ups down for we elected to do our digital prototype on the mobile app.
